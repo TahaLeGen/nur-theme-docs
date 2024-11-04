@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknur_theme_docs=self.webpackChunknur_theme_docs||[]).push([[8827],{9044:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/nur-theme-docs/blog/tags/hello","allTagsPath":"/nur-theme-docs/blog/tags","count":2,"unlisted":false}')}}]);

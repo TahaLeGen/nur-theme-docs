@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknur_theme_docs=self.webpackChunknur_theme_docs||[]).push([[3709],{4354:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/nur-theme-docs/blog/tags/docusaurus","allTagsPath":"/nur-theme-docs/blog/tags","count":4,"unlisted":false}')}}]);

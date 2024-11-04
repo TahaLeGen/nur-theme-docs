@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknur_theme_docs=self.webpackChunknur_theme_docs||[]).push([[377],{3787:e=>{e.exports=JSON.parse('{"permalink":"/nur-theme-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

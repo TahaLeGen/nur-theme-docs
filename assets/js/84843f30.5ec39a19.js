@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknur_theme_docs=self.webpackChunknur_theme_docs||[]).push([[3649],{8092:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/nur-theme-docs/blog/tags/facebook","allTagsPath":"/nur-theme-docs/blog/tags","count":1,"unlisted":false}')}}]);
